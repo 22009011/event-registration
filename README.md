@@ -29,15 +29,14 @@ Publish the website in the given URL.
 
 ## DESIGN:
 
-
-
-###output
 ![image](https://user-images.githubusercontent.com/118343461/215081313-223f5934-40aa-4df7-9963-b5f3bd026b79.png)
 ![image](https://user-images.githubusercontent.com/118343461/215081566-16d266ee-1fc5-4f89-9d7f-d702fc604f91.png)
 ![image](https://user-images.githubusercontent.com/118343461/215081794-1826ccd1-cc8e-4fae-9b48-594673904f33.png)
 ![image](https://user-images.githubusercontent.com/118343461/215081956-22521d53-fc92-4c2f-b555-e15f63c8cef8.png)
 ![image](https://user-images.githubusercontent.com/118343461/215082042-ab61fe99-2916-4639-9dbd-1b25f3c12097.png)
 ![image](https://user-images.githubusercontent.com/118343461/215082501-f8ed9cbf-887c-4be5-b7a6-5f9d4e8ac635.png)
+###output
+![image](https://user-images.githubusercontent.com/118343461/215083397-07aac47b-80b2-4664-831a-deb1203be4e3.png)
 
 
 ## Result:
